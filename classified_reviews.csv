@@ -1,0 +1,18 @@
+id,review,predicted_sentiment,score
+1,The staff were friendly and the service was excellent.,positive,3
+2,I love this phone; the camera is amazing.,positive,4
+3,Great quality and very comfortable to use.,positive,3.5
+4,Delivery was fast and the packaging was perfect.,positive,3
+5,"A wonderful experience, I highly recommend it.",positive,3
+6,"The app is smooth, helpful, and reliable.",positive,3
+7,Fantastic value for money and brilliant support.,positive,4
+8,It works as described.,neutral,0
+9,The color is blue and the box contains two pieces.,neutral,0
+10,I received the order on Tuesday afternoon.,neutral,0
+11,The product has a screen and a charging cable.,neutral,0
+12,"The menu lists soup, rice, and tea.",neutral,0
+13,The delivery was late and the package was broken.,negative,-2
+14,Poor quality; I am disappointed with this purchase.,negative,-3
+15,"The app is slow, annoying, and unhelpful.",negative,-3
+16,Terrible service. I want a refund.,negative,-3
+17,This was a waste of money and the worst experience.,negative,-4

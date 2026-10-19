@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250">
+<rect width="100%" height="100%" rx="16" fill="#fff"/>
+<text x="28" y="35" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">Review sentiment counts</text>
+<text x="28" y="89" font-family="Arial" font-size="15" fill="#334155">Positive</text>
+<rect x="140" y="64" width="390" height="34" rx="7" fill="#f1f5f9"/>
+<rect x="140" y="64" width="390" height="34" rx="7" fill="#16a34a"/>
+<text x="544" y="87" font-family="Arial" font-size="16" font-weight="700" fill="#0f172a">7</text>
+<text x="28" y="147" font-family="Arial" font-size="15" fill="#334155">Negative</text>
+<rect x="140" y="122" width="390" height="34" rx="7" fill="#f1f5f9"/>
+<rect x="140" y="122" width="278" height="34" rx="7" fill="#dc2626"/>
+<text x="544" y="145" font-family="Arial" font-size="16" font-weight="700" fill="#0f172a">5</text>
+<text x="28" y="205" font-family="Arial" font-size="15" fill="#334155">Neutral</text>
+<rect x="140" y="180" width="390" height="34" rx="7" fill="#f1f5f9"/>
+<rect x="140" y="180" width="278" height="34" rx="7" fill="#64748b"/>
+<text x="544" y="203" font-family="Arial" font-size="16" font-weight="700" fill="#0f172a">5</text>
+</svg>
